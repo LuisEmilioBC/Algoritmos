@@ -1,5 +1,4 @@
 
-
 lista = []
 def secuencia_descendente(n):
     lista.append(n)

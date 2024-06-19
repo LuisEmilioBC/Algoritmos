@@ -1,3 +1,4 @@
+
 def factorial(n):
     if n==0:
         return 1
@@ -14,5 +15,6 @@ def main():
             print(f"El factorial de {numero} es {resultado}")
     except ValueError:
         print("Se debe ingresar un número entero válido")
+
 
 main()
